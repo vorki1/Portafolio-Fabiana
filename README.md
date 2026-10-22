@@ -7,6 +7,7 @@ Plantilla con seis secciones: perfil profesional y presentación, temáticas (de
 
 ## Archivos actuales
 - `index.html`: estructura y contenido de la página.
+- `images/icon-calendar.svg`, `images/icon-whatsapp.svg` e `images/icon-instagram.svg`: iconos locales de los enlaces de agenda y redes, en perfil y contacto.
 - `images/logo-fabiana.png`: símbolo de la marca sin texto, cuadrado y transparente; se usa en el navbar y como sello sobre el retrato del perfil.
 - `images/favicon.ico`, `images/favicon-32.png` y `images/apple-touch-icon.png`: iconos de pestaña y acceso directo.
 - `images/perfil-provisional.jpg`: retrato de ejemplo seleccionado por el usuario, pendiente de reemplazar por la fotografía de Fabiana.

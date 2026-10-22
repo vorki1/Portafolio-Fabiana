@@ -45,5 +45,9 @@ La prioridad actual es el fondo de toda la página. Se pudieron visualizar dos r
 
 Se retiraron las líneas horizontales superiores de las secciones y del pie tras el comentario del usuario sobre ruido visual. Se mantiene la separación mediante espacio y títulos para integrar el contenido con el fondo continuo. No eran etiquetas br: eran bordes CSS. La barra de navegación conserva su borde inferior.
 
+Los seis enlaces de agenda, WhatsApp e Instagram (perfil y contacto) incorporan iconos SVG locales, decorativos y acompañados por sus etiquetas de texto. La agenda usa un calendario ilustrado y las redes sus símbolos reconocibles. No requieren bibliotecas ni peticiones externas; los destinos se mantienen.
+
+El usuario aclaró que solo desea quitar «Nueva pestaña» del texto visible. Los enlaces conservan icono, nombre y subtítulo: «Google Calendar», «Escríbeme» y «Visita mi perfil». Conservan sus destinos y la apertura en nueva pestaña.
+
 ## Estado actual
-La plantilla incluye las seis secciones acordadas, con perfil y presentación unificados. Depresión y ansiedad tienen descripciones provisionales. Los datos pendientes están identificados; los canales de contacto y la agenda tienen los enlaces reales proporcionados por el usuario, con indicación de nueva pestaña. El perfil muestra el retrato provisional seleccionado por el usuario mediante una ruta local relativa; se reemplazará por la fotografía definitiva. No hay reseñas inventadas. JavaScript actualiza el año del pie. El agente no ha realizado revisión visual en navegador.
+La plantilla incluye las seis secciones acordadas, con perfil y presentación unificados. Depresión y ansiedad tienen descripciones provisionales. Los datos pendientes están identificados; los canales de contacto y la agenda tienen los enlaces reales proporcionados por el usuario, con apertura en nueva pestaña. El perfil muestra el retrato provisional seleccionado por el usuario mediante una ruta local relativa; se reemplazará por la fotografía definitiva. No hay reseñas inventadas. JavaScript actualiza el año del pie. El agente no ha realizado revisión visual en navegador.
