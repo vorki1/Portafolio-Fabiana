@@ -1,0 +1,6 @@
+# Referencias de trabajo y configuración local del agente.
+tmp/
+.codex/
+.agents/
+.env
+.env.*

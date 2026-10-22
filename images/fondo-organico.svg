@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 1800 1800" preserveAspectRatio="none">
+  <!-- Formas laterales continuas: el centro queda libre para el contenido. -->
+  <path fill="#f5dfe8" d="M0 0H190C245 145 80 220 135 380S255 590 120 770S75 1030 165 1180S220 1510 95 1660S75 1760 90 1800H0Z"/>
+  <path fill="#e1f1f2" d="M0 0H70C160 180 10 280 60 455S155 650 55 845S30 1080 95 1250S140 1510 40 1700L0 1800Z"/>
+  <path fill="#e1f1f2" d="M1800 0H1710C1660 160 1750 260 1670 425S1590 650 1690 820S1770 1040 1650 1220S1600 1480 1700 1630S1740 1750 1610 1800H1800Z"/>
+  <path fill="#f5dfe8" d="M1800 270C1700 340 1750 440 1725 520S1700 700 1800 780Z"/>
+  <path fill="#f7e8df" d="M1800 1110C1710 1160 1730 1280 1750 1350S1685 1500 1800 1570Z"/>
+  <path d="M115 0C210 180 30 250 90 420S210 610 90 790S50 1040 125 1210S175 1510 65 1680" fill="none" stroke="#e5becf" stroke-width="2"/>
+  <path d="M1750 0C1690 180 1790 280 1710 440S1640 650 1730 810S1790 1050 1690 1230S1650 1480 1740 1640" fill="none" stroke="#bfdfe1" stroke-width="2"/>
+</svg>
